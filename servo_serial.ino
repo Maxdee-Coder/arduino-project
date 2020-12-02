@@ -1,5 +1,4 @@
-int angle, i, j;
-int inp;
+int inp, i, j;
 #include <Servo.h>
 #include <stdlib.h>
 Servo motor;
